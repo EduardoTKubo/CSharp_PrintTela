@@ -1,0 +1,32 @@
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\bin\Debug\PrintErro.exe
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\bin\Debug\PrintErro.pdb
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\obj\x86\Debug\PrintErro.frm_print.resources
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\obj\x86\Debug\PrintErro.Properties.Resources.resources
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csproj.GenerateResource.Cache
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\obj\x86\Debug\PrintErro.exe
+c:\users\roberto.matos\documents\visual studio 2010\Projects\PrintErro\PrintErro\obj\x86\Debug\PrintErro.pdb
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\obj\x86\Debug\PrintErro.exe
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\obj\x86\Debug\PrintErro.pdb
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\bin\Debug\PrintErro.exe
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\bin\Debug\PrintErro.pdb
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\obj\x86\Debug\PrintErro.frm_print.resources
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\obj\x86\Debug\PrintErro.Properties.Resources.resources
+C:\Users\roberto.matos\Documents\Visual Studio 2010\Projects\PROJETOS PRODUÇÃO\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csproj.GenerateResource.Cache
+C:\Intel\PrintErro\PrintErro\bin\Debug\PrintErro.exe
+C:\Intel\PrintErro\PrintErro\bin\Debug\PrintErro.pdb
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csprojAssemblyReference.cache
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.frm_print.resources
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.Properties.Resources.resources
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csproj.GenerateResource.cache
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csproj.CoreCompileInputs.cache
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.exe
+C:\Intel\PrintErro\PrintErro\obj\x86\Debug\PrintErro.pdb
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\bin\Debug\PrintErro.exe
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\bin\Debug\PrintErro.pdb
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csprojAssemblyReference.cache
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.frm_print.resources
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.Properties.Resources.resources
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csproj.GenerateResource.cache
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.csproj.CoreCompileInputs.cache
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.exe
+C:\Ekubo\Sistemas C#\PrintErro\PrintErro\obj\x86\Debug\PrintErro.pdb
